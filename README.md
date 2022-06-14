@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @talha073
+- 👀 I’m interested in Blockchain Technology...
+- 🌱 I’m currently learning web-3 and solidity...
+- 📫 How to reach me ...
+
+<!---
+talha073/talha073 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
